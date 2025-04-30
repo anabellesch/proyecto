@@ -445,4 +445,4 @@ class AgenteMonitoreo:
     
     def detener_monitoreo(self):
         """Detiene el monitoreo y los hilos asociados"""
-        logger.info("Deteniendo monitore")
+        logger.info("Deteniendo monitores")
